@@ -5,7 +5,7 @@ import requests
 import json
 
 # Ollama API的URL
-OLLAMA_API_URL = "http://localhost:11434/api/generate"
+OLLAMA_API_URL = "http://localhost:11435/api/generate"
 
 
 def generate_with_ollama(prompt: str, model):
