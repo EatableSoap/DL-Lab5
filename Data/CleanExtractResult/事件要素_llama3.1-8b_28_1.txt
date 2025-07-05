@@ -1,0 +1,22 @@
+```json
+{
+  "time": "2025年",
+  "location": "北京",
+  "industry": "贸易投资",
+  "subject": "中国贸促会",
+  "object": "全球工商界",
+  "subject_action": "主办2025年全球贸易投资促进峰会",
+  "object_reaction": "通过对话交流，共谋合作、共话发展",
+  "policy_mentioned": "",
+  "sentiment_score": 4,
+  "sentiment_reason": "会议强调共享数智红利、构建协同体系、促进全球可持续发展等积极主张",
+  "impact_scope": "国家级",
+  "future_impacts": [
+    "推动高水平对外开放、建设开放型世界经济",
+    "赋能绿色低碳转型",
+    "促进全球贸易投资自由化便利化"
+  ],
+  "additional_details": ["来自约50个国家和地区的800余名中外嘉宾","中国制造的电动汽车、消费电子产品等让更多人能够接触到新技术"]
+}
+```
+

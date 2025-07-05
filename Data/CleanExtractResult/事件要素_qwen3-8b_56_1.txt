@@ -1,0 +1,35 @@
+>
+{
+  "core_event": "美国关税政策对全球金融市场造成持续冲击",
+  "structured_elements": {
+    "time": "4月9日",
+    "location": "全球金融市场",
+    "industry": "金融市场",
+    "subject": "美国政府",
+    "object": "全球金融市场",
+    "subject_action": "实施关税政策",
+    "object_reaction": [
+      "全球股市普遍下跌",
+      "美国国债收益率显著上升",
+      "美元对韩元汇率创十年新高"
+    ],
+    "policy_mentioned": "未提及",
+    "sentiment_score": -3.8,
+    "sentiment_reason": "冲击、担忧、下跌、压力、崩盘担忧",
+    "impact_scope": "世界级",
+    "future_impacts": [
+      "全球经济增长放缓",
+      "通胀压力上升",
+      "金融市场动荡",
+      "贸易前景不确定性加剧"
+    ],
+    "additional_details": [
+      "日经股指下跌3.93%",
+      "东证股指下跌3.40%",
+      "美元对韩元汇率升至1487.5",
+      "10年期美债收益率升至4.51%",
+      "S&P/ASX 200指数跌至7349点"
+    ]
+  }
+}
+

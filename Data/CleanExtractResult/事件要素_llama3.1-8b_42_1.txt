@@ -1,0 +1,27 @@
+```json
+{
+  "time": "2023年2月24日至26日",
+  "location": "德国慕尼黑",
+  "industry": "汽车行业",
+  "subject": "宝马集团全球政府事务负责人格伦·施密特",
+  "object": "中国市场",
+  "subject_action": "描述中国市场的核心竞争力和创新能力",
+  "object_reaction": "无",
+  "policy_mentioned": "未提及",
+  "sentiment_score": "+3",
+  "sentiment_reason": "施密特眼中的中国市场充满活力、不断变化，宝马集团信心坚定投资中国",
+  "impact_scope": "国家级",
+  "future_impacts": ["进一步加强中德合作", "推动汽车行业全球化发展"],
+  "additional_details": [
+    {
+      "key": "时间",
+      "value": "2025年美国拉斯维加斯消费电子展上发布新世代超感智能座舱"
+    },
+    {
+      "key": "市场",
+      "value": "中国市场是全球最大单一乘用车市场和新能源汽车市场"
+    }
+  ]
+}
+```
+

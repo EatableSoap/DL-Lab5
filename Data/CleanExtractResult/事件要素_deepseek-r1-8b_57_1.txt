@@ -1,0 +1,32 @@
+>
+```json
+{
+  "core_event": "International Monetary Fund (IMF) Asia Pacific Department chief Krishna Srinivasan warns that persistent trade tensions may severely impact low-income economies in Asia.",
+  "time": "4月27日",
+  "location": "华盛顿（未明确事件发生地，采访地点）",
+  "industry": "宏观经济/经济政策",
+  "subject": "IMF亚太部主任克里希纳·斯里尼瓦桑",
+  "object": "亚洲低收入经济体及区域经济体",
+  "subject_action": "发表观点、预测数据并提出建议（通过新华社专访形式传达）",
+  "object_reaction": "",
+  "policy_mentioned": [
+    "关税措施",
+    "《区域全面经济伙伴关系协定》"
+  ],
+  "sentiment_score": 4,
+  "sentiment_reason": "分析中包含建设性意见和对积极政策的呼吁，但未忽略潜在风险。",
+  "impact_scope": "亚洲级",
+  "future_impacts": [
+    "经济增长率进一步下降",
+    "经济下行压力增大",
+    "政策空间受限导致更大困难"
+  ],
+  "additional_details": [
+    "[3.9%] 亚太地区今年经济增长率将放缓至3.9%",
+    "[0.5个百分点] 较此前预测值下调0.5个百分点",
+    "[贸易摩擦升级] 背景下数据变化",
+    "[美国宣布高关税政策] 具体警告对象"
+  ]
+}
+```
+

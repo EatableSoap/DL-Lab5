@@ -1,0 +1,37 @@
+以下是对提供新闻文本的严格JSON输出：
+```
+{
+  "event_summary": "DeepSeek进军消费金融领域",
+  "time": null,
+  "location": "中国",
+  "industry": "消费金融",
+  "subject": "DeepSeek",
+  "object": "消费金融公司和金融科技服务商",
+  "subject_action": "部署DeepSeek的大模型",
+  "object_reaction": "加速推进DeepSeek的部署进程",
+  "policy_mentioned": null,
+  "sentiment_score": 4,
+  "sentiment_reason": "行业对DeepSeek的兴趣和期待",
+  "impact_scope": "国家级",
+  "future_impacts": [
+    "业务流程自动化与智能化升级",
+    "风险管理精细化与智能化"
+  ],
+  "additional_details": [
+    {
+      "key": "中信消费金融的'信智'一站式大模型服务平台",
+      "value": "已成功接入DeepSeek大模型并在智能质检和知识库检索两大业务场景中落地应用"
+    },
+    {
+      "key": "桔子数科",
+      "value": "已完成或正在加速推进DeepSeek的部署进程"
+    },
+    {
+      "key": "连连数字",
+      "value": "已完成DeepSeek大模型的私有化部署"
+    }
+  ]
+}
+```
+请注意，时间（time）被设为null，因为没有提到具体的时间点或时间段。
+

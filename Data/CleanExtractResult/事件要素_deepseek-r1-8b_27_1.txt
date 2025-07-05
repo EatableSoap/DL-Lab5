@@ -1,0 +1,28 @@
+>
+```json
+{
+    "core_event": "2025 Global Southern Forum on Finance is held in Beijing to promote financial collaboration for economic growth.",
+    "time": "March 20, 2025",
+    "location": "Beijing, China",
+    "industry": "Financial Cooperation and Economic Development",
+    "subject": "Global Financial Institutions, Governments, International Organizations",
+    "object": "Economic Growth and Development of Global South Countries",
+    "subject_action": "Discussing strategies for inclusive finance, green economy transformation, and digital technology in development projects.",
+    "object_reaction": "None mentioned",
+    "policy_mentioned": ["Belt and Road Initiative", "Greater BRICS Cooperation"],
+    "sentiment_score": +4,
+    "sentiment_reason": "[+4] Key phrases: 'bright future', 'critical for solving challenges', 'mutual benefit', 'unprecedented opportunities' consistently appear.",
+    "impact_scope": "Worldwide",
+    "future_impacts": [
+        "Enhanced financial integration between Global South nations and China", 
+        "Standardization of sustainable finance practices across member countries", 
+        "Increased trade volume among emerging markets"
+    ],
+    "additional_details": [
+        "[20%] The economic weight of Global South accounts for over 40% of the world's GDP.",
+        "[35+] Institutions representing more than 30 nations participate in knowledge-sharing initiatives."
+        "[98 billion CNY] China-based firms have invested significantly in infrastructure projects across Africa and Asia (implied)."
+    ]
+}
+```
+

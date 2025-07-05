@@ -1,0 +1,33 @@
+以下是根据上述步骤严格遵循的JSON输出：
+```json
+{
+  "event_core": "中国人民银行加大逆周期调节力度支持实体经济",
+  "time": "2023年至今",
+  "location": "中国",
+  "industry": "金融和货币政策",
+  "subject": "中国人民银行",
+  "object": "实体经济",
+  "subject_action": "加大逆周期调节力度",
+  "object_reaction": "获得更多资金支持",
+  "policy_mentioned": "货币政策、存款准备金率下调",
+  "sentiment_score": 4,
+  "sentiment_reason": "支持实体经济促进增长",
+  "impact_scope": "国家级",
+  "future_impacts": [
+    "加大金融对实体经济的支持",
+    "促进经济稳定增长"
+  ],
+  "additional_details": [
+    {
+      "name": "货币供应量",
+      "value": "超过300万亿元"
+    },
+    {
+      "name": "贷款利率",
+      "value": "历史低位"
+    }
+  ]
+}
+```
+注意：输出的JSON结构基于上述步骤，仅作为示例。具体的数据和细节根据原始文本填充而来。
+

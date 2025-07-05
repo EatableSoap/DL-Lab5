@@ -1,0 +1,26 @@
+>
+```json
+{
+  "core_event": "习近平在中央经济工作会议上提出统筹关键关系的经济发展策略",
+  "time": "2024年12月11日至12日",
+  "location": "北京",
+  "industry": "经济、科技",
+  "subject": "中共中央总书记习近平",
+  "object": "全党全国各族人民/国民经济领域/经营主体",
+  "subject_action": "发表重要讲话，提出五对重要关系统筹要求",
+  "policy_mentioned": "未提及",
+  "sentiment_score": "+4",
+  "sentiment_reason": ["成绩令人鼓舞", "信心不滑坡", "新动能培育"],
+  "impact_scope": "国家级",
+  "future_impacts": [
+    "深化改革将塑造经济发展新优势",
+    "科技创新持续推动国际竞争制高点布局"
+  ],
+  "additional_details": [
+    {"event_date": "2024年9月26日", "description": "中央政治局会议部署经济政策"},
+    {"fact": "粮食产量首次突破1.4万亿斤"},
+    {"target_year": "2025年"}
+  ]
+}
+```
+

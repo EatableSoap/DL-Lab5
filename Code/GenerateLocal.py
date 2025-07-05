@@ -4,9 +4,6 @@ import time
 import requests
 import json
 
-# Ollama API的URL
-OLLAMA_API_URL = "http://localhost:11435/api/generate"
-
 
 def generate_with_ollama(prompt: str, model):
     # 构建请求体
@@ -50,6 +47,8 @@ def generate(model, promptDict: dict, newsPath, resultPath):
 
 
 if __name__ == '__main__':
+    # Ollama API的URL
+    OLLAMA_API_URL = "http://localhost:11435/api/generate"
     modelList = ['llama3.1:8b', 'qwen3:latest', 'deepseek-r1:8b']
     promptDictPath = r'..\Data\OptimizePrompt\优化后提示词.txt'
     with open(promptDictPath, 'r', encoding='utf-8') as f:

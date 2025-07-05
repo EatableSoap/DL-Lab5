@@ -1,0 +1,33 @@
+以下是使用JSON格式输出的结果：
+```
+{
+  "core_event": "2025全球南方金融家论坛将于3月19日至21日在北京·国家金融信息大厦举办",
+  "time": "3月17日-3月21日",
+  "location": "北京",
+  "industry": "金融业",
+  "subject": "2025全球南方金融家论坛",
+  "object": "全球经济治理体系",
+  "subject_action": "讨论和探索符合全球南方发展需求的金融模式",
+  "object_reaction": "呼吁各国应对挑战，共同繁荣",
+  "policy_mentioned": [],
+  "sentiment_score": 5,
+  "sentiment_reason": "会议强调普惠包容理念和金融稳定与可持续发展",
+  "impact_scope": "国家级",
+  "future_impacts": [
+    "促进全球经济治理体系的公正合理化",
+    "推动信息透明化与资源高效配置"
+  ],
+  "additional_details": [
+    {
+      "title": "论坛主题",
+      "content": ""融金聚智 点亮南方" "
+    },
+    {
+      "title": "论坛时间和地点",
+      "content": "3月19日至21日，北京·国家金融信息大厦"
+    }
+  ]
+}
+```
+以上结果遵循您提供的步骤进行了输出。
+

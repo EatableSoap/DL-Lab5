@@ -1,0 +1,26 @@
+```json
+{
+  "core_event": "中国政府实施一揽子金融政策，支持科技创新、提振消费和稳定经济",
+  "time": "今年以来",
+  "location": "中国",
+  "industry": "金融业",
+  "subject": "中国政府",
+  "object": "经济",
+  "subject_action": "实施一揽子金融政策",
+  "object_reaction": "开始回升向好",
+  "policy_mentioned": "降息降准、设立服务消费与养老再贷款、完善房地产融资制度、发布公募基金重要改革举措等",
+  "sentiment_score": +3,
+  "sentiment_reason": "政策支持经济发展，稳定市场预期",
+  "impact_scope": "国家级",
+  "future_impacts": [
+    "促进科技创新和产业创新深度融合",
+    "提高高新技术企业贷款增速"
+  ],
+  "additional_details": [
+    "降低存款准备金率0.5个百分点，预计将向市场提供长期流动性约1万亿元",
+    "设立5000亿元服务消费与养老再贷款",
+    "增加支农支小再贷款额度3000亿元"
+  ]
+}
+```
+

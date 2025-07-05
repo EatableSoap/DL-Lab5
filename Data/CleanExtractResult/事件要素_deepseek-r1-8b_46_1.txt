@@ -1,0 +1,28 @@
+>
+```json
+{
+  "core_event": "DeepSeek凭借其强大的AI能力进入消费金融领域，并推动相关机构加速智能化转型。",
+  "time": "未提及",
+  "location": "未提及（涉及中国金融科技行业）",
+  "industry": "消费金融、金融科技",
+  "subject": "DeepSeek及相关金融科技公司/金融机构",
+  "object": "消费金融公司及与场景消费紧密相关的金融科技公司",
+  "subject_action": "部署和应用AI大模型",
+  "object_reaction": "",
+  "policy_mentioned": "",
+  "sentiment_score": "+2",
+  "sentiment_reason": "文本中提到DeepSeek在技术上的优势，以及对其未来发展的积极预期（如提升业务效率、抢占先机），同时也提及了风险和挑战。",
+  "impact_scope": "国家级",
+  "future_impacts": [
+    "人工智能大模型将更广泛地应用于金融行业，推动自动化与智能化升级。",
+    "AI技术的引入可能导致消费金融行业的竞争格局发生变化。",
+    "基于DeepSeek等AI平台的新业务模式和服务方式可能进一步涌现。"
+  ],
+  "additional_details": [
+    "中信消费金融接入DeepSeek后，在智能质检领域实现语音识别综合准确率97%，较传统方案高5个百分点；在知识库检索方面构建实时更新的智能知识库。",
+    "桔子数科针对DeepSeek制定了'三步走一坚持'策略，开发周期缩减超过50%。",
+    "连连数字已完成DeepSeek大模型私有化部署。"
+  ]
+}
+```
+

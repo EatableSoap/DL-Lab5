@@ -1,0 +1,28 @@
+>
+{
+  "core_event": "2025年全球贸易投资促进峰会召开，聚焦数智化时代全球合作与经济转型议题。",
+  "structured_elements": {
+    "time": "2025年5月22日",
+    "location": "北京",
+    "industry": "贸易投资、科技与数字化",
+    "subject": "中国贸促会",
+    "object": "全球工商界",
+    "subject_action": "举办峰会，讨论数智化与全球合作",
+    "object_reaction": "未提及",
+    "policy_mentioned": "《2025年全球贸易投资促进峰会北京倡议》",
+    "sentiment_score": 3,
+    "sentiment_reason": "合作、共同发展、机遇",
+    "impact_scope": "世界级",
+    "future_impacts": [
+      "促进全球工商界数智化转型",
+      "推动国际贸易投资自由化便利化",
+      "加强数字技术应用与绿色低碳转型"
+    ],
+    "additional_details": [
+      "约50个国家和地区800余名中外嘉宾参与",
+      "峰会发布《2025年全球贸易投资促进峰会北京倡议》",
+      "中国德国商会提出链上企业合作提升"
+    ]
+  }
+}
+

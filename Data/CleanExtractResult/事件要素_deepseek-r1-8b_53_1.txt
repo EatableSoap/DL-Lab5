@@ -1,0 +1,71 @@
+>
+```json
+{
+    "core_event": "三季度中国经济关键指标分析及未来展望",
+    "time": [
+        "2023年前三季度"
+    ],
+    "location": "",
+    "industry": "宏观经济/经济运行",
+    "subject": [
+        "国家统计局/中共中央政治局会议/多部门"
+    ],
+    "object": [
+        ""
+    ],
+    "subject_action": [
+        "发布GDP数据（同比增长4.8%）",
+        "部署增量政策支持实体经济",
+        "解读物价情况（CPI上涨0.3%等）",
+        "分析就业形势（城镇失业率5.1%）"
+    ],
+    "object_reaction": "",
+    "policy_mentioned": [
+        ""
+    ],
+    "sentiment_score": 2,
+    "sentiment_details": {
+        "GDP增长": -1,
+        "物价温和上涨": -0.3,
+        "就业形势稳定": 0.5,
+        "房地产止跌回稳政策": 0.4,
+        "金融支持经济": 0.6
+    ],
+    "sentiment_score": 2,
+    "key_indicators": [
+        {
+            "name": "GDP",
+            "value": [4.8],
+            "analysis": ""
+        },
+        {
+            "name": "CPI（消费者价格指数）",
+            "value": [0.3]
+        },
+        {
+            "name": "PPI（工业生产者出厂价格指数）",
+            "value": [
+                "",
+                ""
+            ]
+        },
+        {
+            "name": "就业率",
+            "value": 5.1
+        },
+        {
+            "name": "房地产开发投资",
+            "value": ["降幅比1至8月份略有收窄"]
+        },
+        {
+            "name": "人民币贷款余额",
+            "value": [
+                "",
+                ""
+            ],
+            "analysis": ""
+        }
+    ]
+}
+```
+

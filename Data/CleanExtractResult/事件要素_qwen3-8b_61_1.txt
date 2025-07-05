@@ -1,0 +1,33 @@
+>
+{
+  "core_event": "中德专家在德国慕尼黑举办研讨会，探讨经济合作新机遇。",
+  "structured_elements": {
+    "time": "7月15日-16日",
+    "location": "德国慕尼黑",
+    "industry": "经济合作/国际贸易",
+    "subject": "中国驻慕尼黑总领馆与巴伐利亚州出口俱乐部协会",
+    "object": "中德经贸合作及企业投资",
+    "subject_action": "举办研讨会并开展'投资中国'政策宣介活动",
+    "object_reaction": "未提及",
+    "policy_mentioned": [
+      "投资中国政策",
+      "降低关税",
+      "促进贸易便利化",
+      "放宽外资市场准入",
+      "优化签证政策"
+    ],
+    "sentiment_score": 3,
+    "sentiment_reason": "合作、开放、发展等积极词汇",
+    "impact_scope": "国家级",
+    "future_impacts": [
+      "深化中德经贸合作",
+      "吸引更多德国企业赴华投资"
+    ],
+    "additional_details": [
+      "研讨会主题：'中国在全球经济中的作用——挑战与机遇'",
+      "参会企业约70家",
+      "活动为'德企走进领馆'系列活动之一"
+    ]
+  }
+}
+

@@ -1,0 +1,28 @@
+>
+{
+  "core_event": "全球金融市场震荡引发投资者恐慌，导致美股三大股指大幅下跌。",
+  "structured_elements": {
+    "time": "8月5日,7月",
+    "location": "纽约",
+    "industry": "金融市场",
+    "subject": "全球金融市场",
+    "object": "投资者",
+    "subject_action": "大幅震荡",
+    "object_reaction": "恐慌",
+    "policy_mentioned": "未提及",
+    "sentiment_score": -4,
+    "sentiment_reason": "恐慌指数飙升,市值蒸发,经济下行趋势",
+    "impact_scope": "国家级",
+    "future_impacts": [
+      "美联储可能采取紧急降息措施",
+      "全球经济增长动能放缓风险"
+    ],
+    "additional_details": [
+      "道琼斯工业平均指数下跌2.60%",
+      "纳斯达克综合指数下跌3.43%",
+      "美国7月服务业景气指数51.4",
+      "科技股市值蒸发接近1万亿美元"
+    ]
+  }
+}
+

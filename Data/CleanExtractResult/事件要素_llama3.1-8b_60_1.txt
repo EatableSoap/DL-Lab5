@@ -1,0 +1,26 @@
+```json
+{
+  "core_event": "81.6% 的中国外贸企业预测上半年出口向好或持平",
+  "time": "今年以来，特别是去年四季度以来的回升向好态势",
+  "location": "中国",
+  "industry": "外贸",
+  "subject": "中国贸促会",
+  "object": "国际市场",
+  "subject_action": "稳外贸政策持续发力",
+  "object_reaction": "企业信心活力有所增强",
+  "policy_mentioned": "稳外贸政策",
+  "sentiment_score": 4,
+  "sentiment_reason": "企业信心活力有所增强，预测上半年出口向好或持平",
+  "impact_scope": "国家级",
+  "future_impacts": [
+    "国际贸易环境依然复杂严峻",
+    "企业成本压力增加"
+  ],
+  "additional_details": [
+    "81.6% 的外贸企业预测上半年出口向好或持平",
+    "65.1% 的受访企业新增订单较上季度增长或持平",
+    "优势产品支撑外贸增长：集成电路、汽车、船舶等机电产品出口保持强劲增长"
+  ]
+}
+```
+

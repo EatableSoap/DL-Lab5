@@ -1,0 +1,34 @@
+以下是根据给出的新闻文本使用JSON格式输出的结果：
+```
+{
+  "core_event": "全球金融市场受美国关税政策冲击",
+  "time": "4月9日",
+  "location": "全球范围内（特别是亚太、欧洲和美洲）",
+  "industry": "金融",
+  "subject": "美国政府",
+  "object": "全球经济",
+  "subject_action": "实施关税政策",
+  "object_reaction": "市场对全球经济形势恶化的担忧加重，全球金融市场表现脆弱",
+  "policy_mentioned": [
+    "美国关税政策"
+  ],
+  "sentiment_score": -3,
+  "sentiment_reason": "全球金融市场下跌、投资者对全球经济稳定担忧加剧",
+  "impact_scope": "世界级",
+  "future_impacts": [
+    "可能导致的未来影响：全球经济增长放缓、通胀压力上升及金融市场动荡等"
+  ],
+  "additional_details": [
+    {
+      "date": "2009年",
+      "value": "美元对韩元汇率创下自该年以来最高水平（1美元兑换1487.5韩元）"
+    },
+    {
+      "value": "日经股指下跌3.93%",
+      "unit": "%"
+    }
+  ]
+}
+```
+这里是JSON输出的结果，包含新闻文本中提取的信息。
+

@@ -1,0 +1,33 @@
+以下是使用严格JSON格式输出结果：
+```
+{
+  "core_event": "美国媒体和政客将全球经济问题的责任甩给中国",
+  "time": "2023年9月10日",
+  "location": "",
+  "industry": [],
+  "subject": "美国媒体和政客",
+  "object": "全球经济",
+  "subject_action": "甩锅",
+  "object_reaction": "",
+  "policy_mentioned": [],
+  "sentiment_score": -5,
+  "sentiment_reason": "批判美国媒体和政客的负面言论",
+  "impact_scope": "世界级",
+  "future_impacts": [
+    "可能导致国际贸易摩擦加剧",
+    "全球经济不确定性增加"
+  ],
+  "additional_details": [
+    {
+      "key": "美联储货币政策激进急转",
+      "value": "导致发展中经济体债务压力增加"
+    },
+    {
+      "key": "俄乌冲突延宕",
+      "value": "令欧洲经济承受多重压力"
+    }
+  ]
+}
+```
+注意：该输出结果是基于给定的文本内容，仅供参考。
+

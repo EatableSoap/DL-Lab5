@@ -1,0 +1,32 @@
+>
+```json
+{
+  "core_event": "美国关税政策对德国经济造成显著冲击，导致其2025年经济增长预期下调至零。",
+  "time": "未提及",
+  "location": "未提及（涉及德国和美国）",
+  "industry": "汽车、机械、化工、医药等制造业",
+  "subject": "美国政府",
+  "object": "德国经济、企业及出口业",
+  "subject_action": "实施关税措施",
+  "object_reaction": "",
+  "policy_mentioned": ["对等关税"],
+  "sentiment_score": -3,
+  "sentiment_reason": "文本中多次使用负面词汇如'冲击''停滞''严峻挑战'，并提到企业的观望态度和全球经济风险。",
+  "impact_scope": "国家级",
+  "future_impacts": [
+    "德国经济增长可能继续为零或负增长",
+    "德国汽车企业可能将生产线迁往美国，导致失业增加"
+  ],
+  "additional_details": [
+    {
+      "key": "",
+      "value": ""
+    },
+    {
+      "key": "",
+      "value": ""
+    }
+  ]
+}
+```
+

@@ -1,0 +1,27 @@
+>
+{
+  "core_event": "某些国家推行‘硅幕’政策，限制技术出口，阻碍全球科技合作与发展",
+  "structured_elements": {
+    "time": "未提及",
+    "location": "瑞士达沃斯",
+    "industry": "半导体芯片、人工智能",
+    "subject": "某些国家（如美国）",
+    "object": "全球科技合作、其他国家、中国",
+    "subject_action": "推行‘硅幕’政策，限制关键技术出口，实施技术脱钩制裁",
+    "object_reaction": "专家批评‘硅幕’思维，中国加快自主研发",
+    "policy_mentioned": "未提及",
+    "sentiment_score": -4,
+    "sentiment_reason": "负面词汇如‘愚蠢至极’‘拖累人类科技进步’‘破坏全球产业链’等",
+    "impact_scope": "世界级",
+    "future_impacts": [
+      "全球半导体产业发展停滞",
+      "AI技术交流受阻，创新活力减弱",
+      "AI失控风险加剧，威胁人类生存"
+    ],
+    "additional_details": [
+      "世界经济论坛2025年年会时间：1月20日至24日",
+      "中国深度求索公司发布DeepSeek-R1模型，成本仅为GPT-o1的十分之一"
+    ]
+  }
+}
+

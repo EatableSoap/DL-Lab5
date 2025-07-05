@@ -1,0 +1,27 @@
+>
+{
+  "core_event": "政策支持中小企业创新与拓展国际市场",
+  "structured_elements": {
+    "time": "1-5月, 6月27日至30日",
+    "location": "未提及",
+    "industry": "制造业",
+    "subject": "工业和信息化部及相关部门",
+    "object": "中小企业",
+    "subject_action": "优化公平竞争环境, 强化专精特新发展, 支持国际合作",
+    "object_reaction": "加快国际市场布局",
+    "policy_mentioned": "十五五促进中小企业发展规划",
+    "sentiment_score": 3,
+    "sentiment_reason": "增长, 支持措施",
+    "impact_scope": "国家级",
+    "future_impacts": [
+      "促进中小企业创新与核心技术突破",
+      "扩大国际合作广度与深度"
+    ],
+    "additional_details": [
+      "规模以上工业中小企业增加值同比增长8.0%",
+      "全球累计出货量超过8万台",
+      "年潜在市场规模可达200亿美元"
+    ]
+  }
+}
+

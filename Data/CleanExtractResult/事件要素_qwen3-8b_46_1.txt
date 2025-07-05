@@ -1,0 +1,32 @@
+>
+{
+  "core_event": "DeepSeek在消费金融领域加速应用，金融机构积极部署其AI大模型以提升业务效率和竞争力",
+  "structured_elements": {
+    "time": "未提及",
+    "location": "未提及",
+    "industry": "金融",
+    "subject": "DeepSeek",
+    "object": "消费金融公司、金融科技服务商",
+    "subject_action": "部署和应用AI大模型",
+    "object_reaction": [
+      "提升业务处理效率",
+      "优化客户服务体验",
+      "实现业务流程自动化与智能化升级"
+    ],
+    "policy_mentioned": "未提及",
+    "sentiment_score": 3,
+    "sentiment_reason": "提升效率、竞争力、智能化升级等积极表述",
+    "impact_scope": "国家级",
+    "future_impacts": [
+      "推动金融行业智能化转型加速",
+      "提升消费金融领域服务体验与风控能力"
+    ],
+    "additional_details": [
+      "中信消费金融客服与催收语音识别准确率提升至97%",
+      "桔子数科开发周期缩减超50%",
+      "连连数字完成DeepSeek私有化部署",
+      "ChatBI升级后实现贷款风险评估多维度分析"
+    ]
+  }
+}
+

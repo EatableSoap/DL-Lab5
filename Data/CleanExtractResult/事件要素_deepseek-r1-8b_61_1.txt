@@ -1,0 +1,35 @@
+>
+```json
+{
+  "core_event": "A symposium on "China's Role in the Global Economy - Challenges and Opportunities" is held in Munich, Germany.",
+  "time": "July 15, 2023",
+  "location": "Munich, Germany",
+  "industry": "International Economic Cooperation & Trade",
+  "subject": ["Chinese Embassy in Munich", "Bavarian State Export Club Association"],
+  "object": "Attending Chinese and German experts",
+  "subject_action": [
+    "Host a symposium on "China's Role in the Global Economy - Challenges and Opportunities"",
+    "Promote economic cooperation opportunities"
+  ],
+  "object_reaction": ["Discuss China's economic prospects", "Address topics like new energy industry and EU-China green collaboration"],
+  "policy_mentioned": ["High-level opening up policy", "Tariff reduction measures", "Trade facilitation policies", "Foreign investment market access improvements"],
+  "sentiment_score": 4,
+  "sentiment_reason": [
+    "Emphasis on cooperation ("携手合作")",
+    "Positive outlook for future development ("共谋发展")"
+  ],
+  "impact_scope": "International Level",
+  "future_impacts": ["Potential increase in German investment in China", "Strengthened bilateral economic ties between China and Germany"],
+  "additional_details": [
+    {
+      "field": "Date Range",
+      "value": "July 15-16, 2023"
+    },
+    {
+      "field": "Attendee Count",
+      "value": "Approximately 70 representatives from Bavarian State Export Club members"
+    }
+  ]
+}
+```
+

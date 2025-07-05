@@ -1,0 +1,28 @@
+>
+{
+  "core_event": "IMF警告低收入经济体可能因贸易紧张局势遭受更严重冲击",
+  "structured_elements": {
+    "time": "4月24日,4月27日",
+    "location": "华盛顿",
+    "industry": "国际经济/贸易",
+    "subject": "IMF亚太部主任克里希纳·斯里尼瓦桑",
+    "object": "低收入经济体",
+    "subject_action": "警告贸易紧张局势对亚洲低收入经济体的冲击",
+    "object_reaction": "未提及",
+    "policy_mentioned": "《区域全面经济伙伴关系协定》（RCEP）",
+    "sentiment_score": -2,
+    "sentiment_reason": "贸易紧张局势、经济放缓、冲击风险",
+    "impact_scope": "国家级",
+    "future_impacts": [
+      "经济增长放缓",
+      "抗风险能力下降",
+      "需推进结构性改革"
+    ],
+    "additional_details": [
+      "IMF预测亚太地区2023年经济增长率3.9%",
+      "较此前预测下调0.5个百分点",
+      "美国高关税政策可能加剧冲击"
+    ]
+  }
+}
+

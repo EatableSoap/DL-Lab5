@@ -1,0 +1,77 @@
+识别核心事件
+基于新闻文本内容，核心事件概括如下：
+全球经济在2024年面临复杂严峻的挑战，包括地缘冲突升级、单边主义和保护主义加剧等风险，但中国经济顶风破浪，稳中有进，为世界经济注入更多动力和确定性。
+提取结构化要素
+```
+{
+  "time": [
+    {"start_date": "2024年"},
+    {"end_date": "不明确"}
+  ],
+  "location": ["全球", "中国"],
+  "industry": ["经济", "科技", "贸易"],
+  "subject": ["世界经济", "中国经济"],
+  "object": ["风险挑战", "动力和确定性"],
+  "subject_action": [
+    {"action": "顶风破浪", "actor": "中国经济"},
+    {"action": "推动高水平对外开放", "actor": "中国政府"}
+  ],
+  "object_reaction": [],
+  "policy_mentioned": ["《全面与进步跨太平洋伙伴关系协定》", "_数字经济伙伴关系协定_"],
+  "sentiment_score": +2,
+  "sentiment_reason": ["世界经济复苏乏力被中国经济顶风破浪所打破","中国经济高质量发展的决心和举措得到肯定"],
+  "impact_scope": "国家级",
+  "future_impacts": [
+    {"potential_impact": "世界经济增长加快"},
+    {"potential_impact": "中国经济在全球经济中的重要性增加"}
+  ],
+  "additional_details": [
+    {"detail": "中国高水平对外开放取得积极成效"},
+    {"detail": "全球债务规模进一步扩大"}
+  ]
+}
+```
+JSON输出
+```
+{
+  "time": {
+    "start_date": "2024年",
+    "end_date": "不明确"
+  },
+  "location": ["全球", "中国"],
+  "industry": ["经济", "科技", "贸易"],
+  "subject": ["世界经济", "中国经济"],
+  "object": ["风险挑战", "动力和确定性"],
+  "subject_action": [
+    {
+      "action": "顶风破浪",
+      "actor": "中国经济"
+    },
+    {
+      "action": "推动高水平对外开放",
+      "actor": "中国政府"
+    }
+  ],
+  "object_reaction": [],
+  "policy_mentioned": ["《全面与进步跨太平洋伙伴关系协定》", "_数字经济伙伴关系协定_"],
+  "sentiment_score": +2,
+  "sentiment_reason": [
+    "世界经济复苏乏力被中国经济顶风破浪所打破",
+    "中国经济高质量发展的决心和举措得到肯定"
+  ],
+  "impact_scope": "国家级",
+  "future_impacts": [
+    {
+      "potential_impact": "世界经济增长加快"
+    },
+    {
+      "potential_impact": "中国经济在全球经济中的重要性增加"
+    }
+  ],
+  "additional_details": [
+    {"detail": "中国高水平对外开放取得积极成效"},
+    {"detail": "全球债务规模进一步扩大"}
+  ]
+}
+```
+

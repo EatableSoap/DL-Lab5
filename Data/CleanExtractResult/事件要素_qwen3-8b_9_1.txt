@@ -1,0 +1,26 @@
+>
+{
+  "core_event": "中国人民银行调整货币政策，加大调控强度以应对国内外经济挑战。",
+  "structured_elements": {
+    "time": "2025年第二季度",
+    "location": "未提及",
+    "industry": "金融",
+    "subject": "中国人民银行",
+    "object": "经济",
+    "subject_action": "加大货币政策调控强度，提高货币政策调控前瞻性、针对性、有效性",
+    "object_reaction": "未提及",
+    "policy_mentioned": "未提及",
+    "sentiment_score": 2,
+    "sentiment_reason": "加大调控强度，促进经济高质量发展",
+    "impact_scope": "国家级",
+    "future_impacts": [
+      "降低实体经济融资成本，激发内生融资需求，应对外部冲击并促进消费与投资"
+    ],
+    "additional_details": [
+      "保持流动性充裕，引导金融机构加大货币信贷投放力度",
+      "人民币汇率保持稳中偏强态势",
+      "结构性货币政策工具支持科技创新、提振消费"
+    ]
+  }
+}
+

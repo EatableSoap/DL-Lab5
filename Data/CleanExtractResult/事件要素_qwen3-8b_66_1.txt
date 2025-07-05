@@ -1,0 +1,30 @@
+>
+{
+  "core_event": "中国呼吁各国采取负责任的武器出口政策，防止武器非法流通并加强国际合作。",
+  "structured_elements": {
+    "time": "6月18日",
+    "location": "联合国",
+    "industry": "国际安全/武器管控",
+    "subject": "中国",
+    "object": "各国/国际社会",
+    "subject_action": "呼吁采取负责任的武器出口政策，防止武器非法流通并加强国际合作",
+    "object_reaction": "未提及",
+    "policy_mentioned": [
+      "轻小武器《行动纲领》",
+      "《武器贸易条约》",
+      "《枪支议定书》"
+    ],
+    "sentiment_score": 3,
+    "sentiment_reason": "呼吁合作、解决全球问题",
+    "impact_scope": "世界级",
+    "future_impacts": [
+      "加强国际合作以减少武器非法流通",
+      "促进全球安全与和平发展"
+    ],
+    "additional_details": [
+      "轻小武器非法贸易问题被列为常规军控领域的重要议题",
+      "中国已建立出口商注册登记、最终用户证明管理等武器出口管理制度"
+    ]
+  }
+}
+

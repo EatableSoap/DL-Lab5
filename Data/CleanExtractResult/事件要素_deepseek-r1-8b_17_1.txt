@@ -1,0 +1,31 @@
+>
+```json
+{
+  "core_event": "中共中央提出要创新发展数字贸易并作出重大部署。",
+  "time": "未提及",
+  "location": "中国（北京）",
+  "industry": "数字经济、数字服务贸易",
+  "subject": "中共中央",
+  "object": "数字贸易",
+  "subject_action": "提出创新发展的政策部署",
+  "object_reaction": "未提及",
+  "policy_mentioned": "《中共中央关于进一步全面深化改革、推进中国式现代化的决定》",
+  "sentiment_score": 1,
+  "sentiment_reason": "文本描述了数字贸易的发展态势和重要性，但未有明显情感倾向词汇。",
+  "impact_scope": "国家级（涉及多双边和区域合作）",
+  "future_impacts": [
+    "促进全球数字规则协调"
+  ],
+  "additional_details": [
+    {
+      "detail_type": "数据",
+      "value": "2023年我国可数字化交付的服务进出口规模达27193.7亿元，同比增长8.5%"
+    },
+    {
+      "detail_type": "国际排名",
+      "value": "OECD发布的2022年"数字服务贸易限制指数"显示中国排名第71位"
+    }
+  ]
+}
+```
+

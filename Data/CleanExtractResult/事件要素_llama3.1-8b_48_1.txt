@@ -1,0 +1,34 @@
+以下是经过信息抽取工具处理后的结果：
+```
+{
+  "core_event": "AI与金融科技助力外贸企业跨境支付",
+  "time": "近日",
+  "location": "全球",
+  "industry": "金融科技",
+  "subject": "跨境支付企业",
+  "object": "外贸企业",
+  "subject_action": "使用AI和金融科技技术",
+  "object_reaction": "提高了支付效率、降低了支付成本",
+  "policy_mentioned": [],
+  "sentiment_score": 4,
+  "sentiment_reason": "外贸企业通过AI和金融科技提高了支付效率和降低了支付成本",
+  "impact_scope": "国家级",
+  "future_impacts": [
+    "行业整合将加剧",
+    "头部支付机构扩大市场份额",
+    "实力欠佳的支付机构可能被淘汰或收购"
+  ],
+  "additional_details": [
+    {
+      "type": "数据",
+      "value": "中国跨境数字支付市场规模复合增速为25.2%（2022-2027年）"
+    },
+    {
+      "type": "日期",
+      "value": "近日"
+    }
+  ]
+}
+```
+注：文本中的“未提及”信息在上述JSON结果中被标记为“[]”。
+

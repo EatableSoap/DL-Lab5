@@ -1,0 +1,22 @@
+>
+以下是基于提供的新闻文本提取的信息点列表。我严格遵循了用户的要求，确保所有信息准确、完整，并仅从文本内容中提取（无额外推测）。每个信息点都以标题形式标注，并附上相应的细节摘要。
+- 时间: 10月11日 (消息发布日期未指定年份，但基于中国证监会网站引用的上下文)
+  
+- 地点: China (涉及中国政府机构和监管措施)
+- 行业: Financial industry, specifically the futures market
+- 事件主体: State Council Office forwarding opinions from multiple departments (including China Securities Regulatory Commission and other six agencies), resulting in a policy document
+  
+- 事件客体: Futures trading behaviors and the broader futures market
+  
+- 主体行为: The State Council Office issued and forwarded the "Opinion on Strengthening Regulation, Preventing Risks, and Promoting High-Quality Development of the Futures Market," which outlines 17 key measures to enhance supervision and development in the sector.
+  
+- 客体反应: Industry professionals expressed positive views; for example, practitioners noted that these measures will promote high-quality development, increase service to the national economy, and strengthen investor protection. Experts also viewed them favorably as contributing to market stability and fairness.
+- 涉及政策法案条款: The policy includes 17 specific measures, such as strict regulation of futures trading behaviors,严厉打击期货市场违法违规行为 (severe crackdown on illegal activities),加强穿透式监管对期货交易行为“一看到底” (enhanced penetration-type supervision with full visibility of transactions), and details on market opening like "研究股指期货、国债期货纳入特定品种对外开放" (studying the inclusion of stock index futures and government bond futures in specific open varieties).
+- 事件情感倾向: Positive (+4) from a Chinese perspective, as all mentioned aspects focus on improving market functionality and protecting interests without any negative implications.
+  
+- 事件影响范围: National level for risk prevention and service to the economy; potentially international through measures like market opening, which could affect global asset allocation
+  
+- 未来可能影响: Potential positive impacts include fostering deeper integration with international markets (e.g., increasing foreign capital inflows and advancing RMB internationalization), but no negative effects are indicated in the text
+  
+- 其他关键细节: Key data includes 17 measures covering areas like behavior regulation, institution oversight, risk management, and market opening. Expert views: Shanghai East Asia Futures' chief economist Jing Chuan stated that the opinion will protect investors' interests and support long-term market health; Xinhuo Futures' executive vice president Li Qiang emphasized its role in standardizing markets for better functionality. The measures aim to address risks comprehensively and promote synergy between spot and futures markets.
+

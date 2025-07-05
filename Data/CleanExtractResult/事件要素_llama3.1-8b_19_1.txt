@@ -1,0 +1,31 @@
+```json
+{
+  "core_event": "美股持续下挫受全球市场恐慌影响",
+  "time": "2022年8月5日",
+  "location": "纽约",
+  "industry": "金融",
+  "subject": "投资者",
+  "object": "美国股市",
+  "subject_action": "恐慌卖空",
+  "object_reaction": "大幅下跌",
+  "policy_mentioned": [],
+  "sentiment_score": -4,
+  "sentiment_reason": "全球市场恐慌和经济下行趋势",
+  "impact_scope": "国家级",
+  "future_impacts": [
+    "可能导致金融市场波动性加剧",
+    "可能影响投资者的信心"
+  ],
+  "additional_details": [
+    {
+      "类型": "数字",
+      "描述": "道琼斯工业平均指数下跌1033.99点"
+    },
+    {
+      "类型": "日期",
+      "描述": "2022年7月服务业景气指数为51.4"
+    }
+  ]
+}
+```
+

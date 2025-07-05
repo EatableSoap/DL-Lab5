@@ -1,0 +1,27 @@
+>
+{
+  "core_event": "中国人民银行货币政策委员会部署下阶段货币政策，加大调控强度以应对内外经济挑战。",
+  "structured_elements": {
+    "time": "2025年第二季度",
+    "location": "未提及",
+    "industry": "货币政策",
+    "subject": "中国人民银行货币政策委员会",
+    "object": "经济和金融市场",
+    "subject_action": "加大货币政策调控强度，提高前瞻性、针对性、有效性，灵活把握政策力度和节奏",
+    "object_reaction": "未提及",
+    "policy_mentioned": "未提及",
+    "sentiment_score": 2,
+    "sentiment_reason": "应对经济挑战、支持科技创新与提振消费",
+    "impact_scope": "国家级",
+    "future_impacts": [
+      "下半年推进降息降准以降低实体经济融资成本",
+      "围绕科技、消费、外贸等领域创设或优化政策工具"
+    ],
+    "additional_details": [
+      "内需不足、物价低位运行、外部环境复杂严峻",
+      "保持流动性充裕，社会融资规模与经济增长相匹配",
+      "结构性货币政策工具支持科技创新、提振消费"
+    ]
+  }
+}
+

@@ -1,0 +1,83 @@
+严格遵循步骤处理输入的新闻文本：
+事件概述
+核心事件：科技助推消费金融降本增效。
+结构化要素
+```
+{
+  "time": "今年上半年",
+  "location": "中国",
+  "industry": "消费金融行业",
+  "subject": [
+    {
+      "name": "招联金融",
+      "type": ""
+    },
+    {
+      "name": "兴业消费金融",
+      "type": ""
+    }
+  ],
+  "object": [
+    {
+      "name": "消费者",
+      "type": ""
+    }
+  ],
+  "subject_action": [
+    {
+      "action": "加大科技投入",
+      "object": "",
+      "location": ""
+    },
+    {
+      "action": "推出金融大模型",
+      "object": "",
+      "location": ""
+    },
+    {
+      "action": "强化数字场景挖掘和产品创新",
+      "object": "",
+      "location": ""
+    }
+  ],
+  "object_reaction": [
+    {
+      "reaction": "提高了消费金融的可获得性",
+      "actor": "",
+      "time": ""
+    },
+    {
+      "reaction": "增加了用户的信贷需求",
+      "actor": "",
+      "time": ""
+    }
+  ],
+  "policy_mentioned": [],
+  "sentiment_score": 4,
+  "sentiment_reason": ["消费金融行业加快发展新质生产力","科技创新助力减费让利幅度提升"],
+  "impact_scope": "国家级",
+  "future_impacts": [
+    {
+      "impact": "促进普惠金融服务的扩展",
+      "time": ""
+    },
+    {
+      "impact": "提高消费者对数字金融服务的接受程度",
+      "time": ""
+    }
+  ],
+  "additional_details": [
+    {
+      "detail": "招联金融总资产1578.01亿元",
+      "unit": "",
+      "time": "截至2024年6月末"
+    },
+    {
+      "detail": "兴业消费金融累计提供消费信贷突破3600亿元",
+      "unit": "",
+      "time": ""
+    }
+  ]
+}
+```
+

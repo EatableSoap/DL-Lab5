@@ -1,0 +1,32 @@
+JSON输出结果
+```json
+{
+  "event_summary": "中方呼吁各国采取负责任的武器出口政策",
+  
+  "time": null,
+  "location": "联合国",
+  "industry": "军备控制",
+  "subject": "耿爽（中国常驻联合国副代表）",
+  "object": "轻小武器非法贸易",
+  "subject_action": "呼吁各国采取负责任的武器出口政策",
+  "object_reaction": null,
+  "policy_mentioned": [
+    "_行动纲领",
+    "_识别与追查文书"
+  ],
+  "sentiment_score": 4,
+  "sentiment_reason": "支持联合国对轻小武器非法贸易的努力，呼吁国际社会采取负责任的武器出口政策",
+  "impact_scope": "全球级",
+  "future_impacts": [
+    "减少冲突和暴力",
+    "促进经济发展和社会稳定"
+  ],
+  "additional_details": [
+    "中方已建立完善的轻小武器出口管理制度",
+    "联合国秘书长古特雷斯呼吁减少武器给人类造成的代价"
+  ]
+}
+```
+注意：
+根据新闻文本提供的信息，JSON输出结果的某些字段可能未被完全填充或需要进行合理推断以确保数据的一致性。
+

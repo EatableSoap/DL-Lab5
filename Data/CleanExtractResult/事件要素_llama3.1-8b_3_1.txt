@@ -1,0 +1,23 @@
+### 输出结果：
+```json
+{
+  "time": "近期",
+  "location": "欧美地区",
+  "industry": "科技和服务贸易",
+  "subject": "美国政府",
+  "object": "欧盟苹果公司和元宇宙平台公司",
+  "subject_action": "对苹果公司和元宇宙平台公司进行处罚并要求整改",
+  "object_reaction": " europun对此激烈回应称欧盟此举是“经济勒索”",
+  "policy_mentioned": ["《数字市场法案》", "_反胁迫工具"],
+  "sentiment_score": -4,
+  "sentiment_reason": "欧盟对美国公司的罚款和监管措施以及美方对此的激烈回应",
+  "impact_scope": "国家级",
+  "future_impacts": ["加剧欧美贸易摩擦", "可能影响到跨大西洋关系"],
+  "additional_details": [
+    {"date": "2023年"}, 
+    {"amount": "$5亿"}, 
+    {"amount": "$2亿"}
+  ]
+}
+```
+

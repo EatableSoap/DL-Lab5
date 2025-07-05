@@ -1,0 +1,27 @@
+>
+{
+  "core_event": "中国在第三届亚洲国际水周上倡议协同推进理念、治理、科技和合作创新以应对全球水安全挑战",
+  "structured_elements": {
+    "time": "9月24日",
+    "location": "北京",
+    "industry": "水利",
+    "subject": "水利部",
+    "object": "亚洲各国",
+    "subject_action": "倡议协同推进理念创新、治理创新、科技创新、合作创新",
+    "object_reaction": "未提及",
+    "policy_mentioned": "未提及",
+    "sentiment_score": 3,
+    "sentiment_reason": "倡议合作应对水安全挑战",
+    "impact_scope": "国家级",
+    "future_impacts": [
+      "推动亚洲水治理领域合作深化",
+      "提升全球水治理数字化与智能化能力"
+    ],
+    "additional_details": [
+      "中国洪涝灾害损失占GDP比例降至0.24%",
+      "国内生产总值增长近一倍情况下用水总量实现零增长",
+      "中国以占全球6%的淡水资源保障全球近20%人口用水"
+    ]
+  }
+}
+

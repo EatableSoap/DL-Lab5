@@ -1,0 +1,32 @@
+以下是新闻文本的分析结果：
+```json
+{
+  "core_event": "中国发展高层论坛2025年年会",
+  "time": "3月23日至24日",
+  "location": "北京",
+  "industry": "",
+  "subject": "中外政要、专家学者、世界500强和行业龙头企业负责人、国际机构掌门人等海内外嘉宾",
+  "object": "",
+  "subject_action": "举行高层论坛",
+  "object_reaction": "",
+  "policy_mentioned": "",
+  "sentiment_score": 3,
+  "sentiment_reason": "会上多位嘉宾对中国发展前景表示乐观",
+  "impact_scope": "国家级",
+  "future_impacts": [
+    "中国经济继续增长"
+  ],
+  "additional_details": [
+    {
+      "key": "中国提出的5%左右的经济增长预期目标",
+      "value": "可能实现"
+    },
+    {
+      "key": "全球对经济持续增长的期盼",
+      "value": ""
+    }
+  ]
+}
+```
+注：情感倾向（sentiment_score）和理由（sentiment_reason）需要根据新闻文本内容进行调整。
+

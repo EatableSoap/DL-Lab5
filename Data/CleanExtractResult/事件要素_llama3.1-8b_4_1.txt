@@ -1,0 +1,32 @@
+```json
+{
+  "core_event": "中国服务贸易上半年数据出炉",
+  "time": "今年上半年",
+  "location": "中国",
+  "industry": "服务业",
+  "subject": "中国政府",
+  "object": "外国游客和企业",
+  "subject_action": "推动服务贸易发展",
+  "object_reaction": "快速增长",
+  "policy_mentioned": [],
+  "sentiment_score": 3,
+  "sentiment_reason": "服务业成为世界经济增长的主要动力，中国服务贸易规模位居世界前列",
+  "impact_scope": "国家级",
+  "future_impacts": [
+    "知识密集型服务贸易继续快速增长",
+    "服务外包产业规模持续增加",
+    "跨境服务贸易发展迈向更高水平"
+  ],
+  "additional_details": [
+    {
+      "key": "服务贸易进出口总额",
+      "value": "3.6万亿元"
+    },
+    {
+      "key": "同比增长率",
+      "value": "14%"
+    }
+  ]
+}
+```
+

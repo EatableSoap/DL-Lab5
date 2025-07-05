@@ -1,0 +1,29 @@
+>
+{
+  "core_event": "2025全球南方金融家论坛探讨全球南方金融合作前景及发展路径",
+  "structured_elements": {
+    "time": "2025年3月19日至21日",
+    "location": "北京",
+    "industry": "金融合作",
+    "subject": "全球南方国家政府、金融机构及专家学者",
+    "object": "全球南方国家",
+    "subject_action": "举办论坛讨论金融合作、分享成功案例、提出合作倡议",
+    "object_reaction": "未提及",
+    "policy_mentioned": "未提及",
+    "sentiment_score": 3,
+    "sentiment_reason": "金融合作促进发展、共建一带一路案例、金融机构支持倡议",
+    "impact_scope": "世界级",
+    "future_impacts": [
+      "深化全球南方金融合作网络",
+      "推动基础设施建设和经济发展",
+      "增强区域金融体系韧性"
+    ],
+    "additional_details": [
+      "30多个国家和地区代表参与",
+      "中刚非洲银行、CPEC项目案例",
+      "中信集团累计融资1845亿元",
+      "丝路基金搭建十多个投资平台"
+    ]
+  }
+}
+
